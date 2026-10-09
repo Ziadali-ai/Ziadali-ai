@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Ziad Ali
 
 ### AI & Machine Learning Engineer
-**Python • Machine Learning • Generative AI • Data Analysis • Big Data**
+**Python • C++ • Machine Learning • Generative AI • Data Analysis • Big Data • Backend Development**
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
      alt="Hello Coders"
@@ -44,7 +44,11 @@ I work across:
 - 📊 Data Analysis & Business Intelligence
 - 🗄️ SQL & Database Engineering
 - ⚡ Big Data & Distributed Processing
+- 🌐 Backend & Web Development
+- 🔌 REST API Development
+- 📈 Interactive Data Applications
 - 🐍 Python-based data and ML pipelines
+- 💻 C++ Programming
 
 I enjoy turning raw data into **reliable models, useful insights, and production-minded solutions**.
 
@@ -101,12 +105,21 @@ I enjoy turning raw data into **reliable models, useful insights, and production
 
 # 🧠 Core Skills
 
-### Programming
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Machine Learning
+- Python
+- C++
+- SQL
+- Object-Oriented Programming
+- Data Structures & Algorithms
+
+---
+
+### 🤖 Machine Learning & AI
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
@@ -120,21 +133,57 @@ I enjoy turning raw data into **reliable models, useful insights, and production
 - Cross Validation
 - ROC-AUC
 - F1 Score
+- Predictive Modeling
+- Generative AI
+- LLM-based Systems
 
-### Data & Analytics
+---
+
+### 📊 Data Analysis & Business Intelligence
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- Microsoft Excel
 - Exploratory Data Analysis
 - Data Cleaning
 - Data Visualization
 - KPI Development
 - Statistical Analysis
+- Business Intelligence
 - Data Pipeline Automation
+- Dashboard Development
+- Reporting & Analytics
 
-### Databases
+---
+
+### 📈 Data Visualization & Analytics Applications
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- Streamlit
+- Seaborn
+- Matplotlib
+- Jupyter Notebook
+- Interactive Dashboards
+- Data Visualization
+- Analytical Applications
+- ML Model Interfaces
+- Business Analytics Dashboards
+- Exploratory Analytics
+
+---
+
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -148,8 +197,38 @@ I enjoy turning raw data into **reliable models, useful insights, and production
 - Query Optimization
 - Indexing
 - CRUD Systems
+- SQL Analytics
+- Database Integration
+- Data Modeling
 
-### Big Data
+---
+
+### 🌐 Web Development & Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white)
+
+- Backend Development
+- FastAPI
+- Flask
+- RESTful APIs
+- REST API Development
+- API Integration
+- API Architecture
+- CRUD APIs
+- Database Integration
+- Authentication & Authorization
+- JSON
+- HTTP / REST
+- Web-based ML Applications
+- Backend Services
+
+---
+
+### ⚡ Big Data
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
@@ -163,12 +242,26 @@ I enjoy turning raw data into **reliable models, useful insights, and production
 - MapReduce
 - HDFS
 - Distributed Data Processing
+- Big Data Analytics
+- Distributed Queries
 
-### Tools
+---
+
+### 🛠️ Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Virtual Environments
+- API Testing
+- Documentation
+- Version Control
 
 ---
 
@@ -192,6 +285,8 @@ Model Training
 Model Validation
      ↓
 Optimization
+     ↓
+API / Application Layer
      ↓
 Deployment / API
      ↓
