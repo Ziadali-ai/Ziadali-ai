@@ -5,9 +5,11 @@
 ### AI & Machine Learning Engineer
 **Python • C++ • Machine Learning • Generative AI • Data Analysis • Big Data • Backend Development**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
-     alt="Hello Coders"
-     width="55%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ziad+Ali;AI+%26+Machine+Learning+Engineer;Python+%7C+Machine+Learning+%7C+Generative+AI;Building+Intelligent+AI+Solutions"
+       alt="Ziad Ali - AI and Machine Learning Engineer" />
+</p>
 
 <br>
 
