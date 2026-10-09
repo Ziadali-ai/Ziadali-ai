@@ -17,12 +17,16 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ziad-ali-218282333/">
+<a href="https://www.linkedin.com/in/ziadali2/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ziadali-ai">
   <img src="https://img.shields.io/badge/GitHub-ziadali--ai-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:za239494@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
